@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://yotch23.github.io/rsschool-cv/cv
